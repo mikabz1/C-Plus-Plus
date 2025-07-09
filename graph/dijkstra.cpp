@@ -1,7 +1,5 @@
 /**
  * @file
- * mbz
- *
  * @brief [Graph Dijkstras Shortest Path Algorithm
  * (Dijkstra's Shortest Path)]
  * (https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
